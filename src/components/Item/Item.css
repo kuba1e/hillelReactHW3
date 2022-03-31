@@ -12,3 +12,10 @@ td,
 th {
   text-align: center;
 }
+
+.btn-danger {
+  background-color: #d3747d;
+}
+.btn-success {
+  background-color: #418666;
+}
