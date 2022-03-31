@@ -1,0 +1,14 @@
+.btn.remove-btn {
+  background-image: url("./square-minus-solid.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 30px;
+  height: 30px;
+  padding: 5px;
+}
+
+td,
+th {
+  text-align: center;
+}

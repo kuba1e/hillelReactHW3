@@ -1,0 +1,16 @@
+.container-sm {
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.btn {
+  width: 25%;
+}
+
+body {
+  background-color: #c6fad2;
+}
+
+.add-btn {
+  margin: 50px 0;
+}

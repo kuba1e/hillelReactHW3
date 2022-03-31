@@ -1,0 +1,18 @@
+.form {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 60%;
+  padding: 50px;
+  border-radius: 10px;
+  background-color: #fad2cc;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-evenly;
+}
+.btn {
+  width: 25%;
+}
