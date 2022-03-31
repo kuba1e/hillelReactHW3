@@ -1,4 +1,4 @@
-import React, { Component, Fragment } from "react";
+import React, { Component } from "react";
 import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 
